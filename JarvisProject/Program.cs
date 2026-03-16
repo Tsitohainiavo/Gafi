@@ -31,7 +31,7 @@ public class Program {
         }
     }
 
-    // Ton algorithme (tel que décrit dans tes notes)
+    // L'algorithme de Jarvis pour calculer l'enveloppe convexe
     private static int Orientation(Point p, Point q, Point r) {
         double val = (q.Y - p.Y) * (r.X - q.X) - (q.X - p.X) * (r.Y - q.Y);
         if (Math.Abs(val) < 1e-10) return 0; // Utilisation d'une marge pour les doubles
