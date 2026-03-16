@@ -1,0 +1,15 @@
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.AssemblyInfoInputs.cache
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.AssemblyInfo.cs
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.csproj.CoreCompileInputs.cache
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.sourcelink.json
+/home/nyfisandratana/Projet /Gafi/JarvisProject/bin/Debug/net9.0/JarvisProject
+/home/nyfisandratana/Projet /Gafi/JarvisProject/bin/Debug/net9.0/JarvisProject.deps.json
+/home/nyfisandratana/Projet /Gafi/JarvisProject/bin/Debug/net9.0/JarvisProject.runtimeconfig.json
+/home/nyfisandratana/Projet /Gafi/JarvisProject/bin/Debug/net9.0/JarvisProject.dll
+/home/nyfisandratana/Projet /Gafi/JarvisProject/bin/Debug/net9.0/JarvisProject.pdb
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.dll
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/refint/JarvisProject.dll
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.pdb
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/JarvisProject.genruntimeconfig.cache
+/home/nyfisandratana/Projet /Gafi/JarvisProject/obj/Debug/net9.0/ref/JarvisProject.dll
